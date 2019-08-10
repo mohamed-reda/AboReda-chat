@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892366490094",
+    "firebase_url": "https://flash-chat-4f84a.firebaseio.com",
+    "project_id": "flash-chat-4f84a",
+    "storage_bucket": "flash-chat-4f84a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892366490094:android:d8c6572c31d1205b",
+        "android_client_info": {
+          "package_name": "co.AboReda.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892366490094-jbsm18btd6u4k6fgi9gq67culd01e5t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqr2ADMapz4JDH-rpL59wCAwldwoEoz58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892366490094-jbsm18btd6u4k6fgi9gq67culd01e5t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
